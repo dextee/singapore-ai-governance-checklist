@@ -2,6 +2,8 @@
 
 A portable, evidence-oriented checklist for teams preparing an AI system or agent for production in Singapore.
 
+Read the standalone [AI governance evidence-pack guide](https://dextee.github.io/singapore-ai-governance-checklist/) or use the interactive assessment below.
+
 Use the interactive version on VYR:
 
 **[Open the Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist)**
