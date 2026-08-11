@@ -33,6 +33,7 @@ Close each review with open evidence gaps, required remediation, residual risks,
 ## Free formats
 
 - [Printable Markdown checklist](https://github.com/dextee/singapore-ai-governance-checklist/blob/main/CHECKLIST.md)
+- [AI agent production release-review template](ai-agent-release-review-template.html)
 - [Repository and source references](https://github.com/dextee/singapore-ai-governance-checklist)
 - [Singapore AI governance implementation guide](https://vyrwork.com/blog/ai-governance-framework-singapore-enterprises)
 
