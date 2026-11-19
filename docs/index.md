@@ -5,6 +5,8 @@ description: A free evidence-oriented template for reviewing AI systems and agen
 
 # Singapore AI Governance Evidence Pack
 
+See the controls exercised on a tagged public application with synthetic data. [Invoice workbench release review](invoice-workbench-release-review.md)
+
 Production governance becomes useful when a review team can inspect evidence, identify an accountable owner, and decide what must change before release. This free companion guide helps Singapore teams organise that evidence for an AI system or agent.
 
 For the complete interactive assessment, use VYR's [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist). It contains 24 prompts organised around risk and autonomy, human accountability, lifecycle technical controls, and end-user responsibility.

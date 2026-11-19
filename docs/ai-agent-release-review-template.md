@@ -5,6 +5,8 @@ description: A free evidence-oriented release template for teams moving an AI ag
 
 # AI Agent Production Release Review Template
 
+Follow a completed example from a failed quantity check to an independently replayed draft. [Invoice workbench release review](invoice-workbench-release-review.md)
+
 Use this template before an AI agent receives production data, credentials, tools, or authority to act. The objective is not to produce a ceremonial approval document. It is to give an accountable reviewer enough current evidence to decide whether the release should proceed, proceed with conditions, or stop.
 
 ## 1. Release identity

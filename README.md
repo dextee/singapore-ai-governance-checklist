@@ -2,6 +2,8 @@
 
 A portable, evidence-oriented checklist for teams preparing an AI system or agent for production in Singapore.
 
+See a completed release review in which a quantity mismatch held a S$222 invoice. It includes the failed approval attempt, corrected receipts and replay results. [Worked invoice review](docs/invoice-workbench-release-review.md)
+
 Read the standalone [AI governance evidence-pack guide](https://dextee.github.io/singapore-ai-governance-checklist/) or use the interactive assessment below.
 
 Use the interactive version on VYR:
