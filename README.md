@@ -4,6 +4,8 @@ A portable, evidence-oriented checklist for teams preparing an AI system or agen
 
 See a completed release review in which a quantity mismatch held a S$222 invoice. It includes the failed approval attempt, corrected receipts and replay results. [Worked invoice review](docs/invoice-workbench-release-review.md)
 
+If your agent can write to a business system, check who can approve its work. Dexter's sample assessment shows an extra approval grant, the business consequence and the retest. [Inspect the sample security finding](https://github.com/dextee/dextee/tree/main/security-review) · [Discuss a security review with Dexter](https://www.linkedin.com/in/dexterng/)
+
 Read the standalone [AI governance evidence-pack guide](https://dextee.github.io/singapore-ai-governance-checklist/) or use the interactive assessment below.
 
 Use the interactive version on VYR:
